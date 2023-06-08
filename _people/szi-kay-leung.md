@@ -8,7 +8,7 @@ email: S.K.Leung@exeter.ac.uk
 category: delete as appropriate [ Research Fellows ]
 orcid_id: 0000-0002-5607-4688 
 linkedin_username: szikayleung 
-twitter_username: @SKayLeung
+twitter_username: SKayLeung
 uoe_profile: https://eprofile.exeter.ac.uk/szikayleung/ 
 github_username: SziKayLeung 
 ---
