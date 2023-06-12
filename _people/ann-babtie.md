@@ -9,7 +9,7 @@ importance: 6  ##LEAVE
 category: Research Fellows
 orcid_id: 0000-0001-9357-8351
 linkedin_username: ann-babtie-282a4a49
-twitter_username: annbabtie
+twitter_username: @annbabtie
 github_username: anncfs
 ---
 
