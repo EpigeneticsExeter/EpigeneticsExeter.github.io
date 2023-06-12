@@ -5,11 +5,10 @@ title: Morteza Kouhsar ##CHANGE Name to your name
 description: Postdoctoral Research Fellow ##CHANGE
 img: assets/img/morteza-kouhsar.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: m.kouhsar@exeter.ac.uk ##CHANGE or delete if n/a
-importance: 6  ##LEAVE
 category: delete as appropriate [ Current Members] ##CHANGE
 orcid_id: 0000-0001-6092-3016# #CHANGE just the numbers not the whole web address!!
 linkedin_username: morteza-kouhsar-2618085a##CHANGE just the username or delete if n/a
-twitter_username: @MortezaKouhsar ##CHANGE just the username or delete if n/a
+twitter_username: MortezaKouhsar ##CHANGE just the username or delete if n/a
 uoe_profile: Morteza_Kouhsar ##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
 github_username: m-kouhsar ##CHANGE just the username or delete if n/a
 ---

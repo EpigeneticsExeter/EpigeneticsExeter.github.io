@@ -5,9 +5,9 @@ title: Emma Walker ##CHANGE Name to your name
 description: Graduate Research Assistant ##CHANGE
 img: assets/img/emma-walker.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: E.M.Walker@exeter.ac.uk ##CHANGE or delete if n/a
-category: delete as appropriate [ Current Members, Research Analysts & Technicians ] ##CHANGE
+category: Research Analysts & Technicians ##CHANGE
 orcid_id: 0000-0003-2222-4577 ##CHANGE just the numbers not the whole web address!!
-uoe_profile: Emma_walker##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
+uoe_profile: Emma_walker ##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
 github_username: ew367
 ---
 

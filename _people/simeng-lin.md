@@ -4,15 +4,11 @@ person: true
 title: Simeng Lin
 description: PhD Students
 img: assets/img/simeng-lin.jpg
-tel: 
 email: S.Lin2@exeter.ac.uk
 category: PhD Students
 orcid_id: 0000-0002-4201-4879
-linkedin_username:
-twitter_username: @SimengLin
-personal_web:
+twitter_username: SimengLin
 uoe_profile: Simeng_Lin
-github_username:
 ---
 
 <!-- DESCRIPTION - PLEASE EDIT THE BELOW -->

@@ -5,11 +5,10 @@ title: Ann Babtie
 description: Postdoctoral Research Fellow
 img: assets/img/ann-babtie.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: a.babtie@exeter.ac.uk
-importance: 6  ##LEAVE
 category: Research Fellows
 orcid_id: 0000-0001-9357-8351
 linkedin_username: ann-babtie-282a4a49
-twitter_username: @annbabtie
+twitter_username: annbabtie
 github_username: anncfs
 ---
 

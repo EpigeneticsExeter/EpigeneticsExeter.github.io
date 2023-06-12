@@ -5,7 +5,6 @@ title: Marty Frith ##CHANGE Name to your name
 description: PhD Student ##CHANGE
 img: assets/img/path-to-image/marty-frith.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: mjf221@exeter.ac.uk ##CHANGE or delete if n/a
-importance: 6  ##LEAVE
 category: PhD Students ##CHANGE
 orcid_id: 0009-0005-2422-9904 ##CHANGE just the numbers not the whole web address!!
 linkedin_username: martyn-frith-543815206 ##CHANGE just the username or delete if n/a

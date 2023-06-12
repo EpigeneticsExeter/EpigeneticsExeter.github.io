@@ -5,11 +5,10 @@ title: Darren Soanes ##CHANGE Name to your name
 description: Postdoctoral Research Fellow ##CHANGE
 img: assets/img/darren-soanes.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: d.m.soanes@exeter.ac.uk ##CHANGE or delete if n/a
-importance: 6  ##LEAVE
-category: delete as appropriate [ Current Members, Research Fellows ] ##CHANGE
+category: Research Fellows ##CHANGE
 orcid_id: 0000-0001-5025-295X ##CHANGE just the numbers not the whole web address!!
 linkedin_username: darren-soanes-94779550 ##CHANGE just the username or delete if n/a
-twitter_username: @darren_soanes ##CHANGE just the username or delete if n/a
+twitter_username: darren_soanes ##CHANGE just the username or delete if n/a
 uoe_profile: darren_soanes ##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
 github_username: dmsoanes ##CHANGE just the username or delete if n/a
 ---

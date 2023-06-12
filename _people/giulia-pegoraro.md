@@ -6,10 +6,10 @@ description: PhD Student
 img: assets/img/giulia_pegoraro.jpg 
 email: gp487@exeter.ac.uk
 category: PhD Students
-orcid_id: https://orcid.org/0009-0001-5206-5303
-linkedin_username: @giulia-pegoraro-8554361b0
-twitter_username: @GiuliaPegoraro7
-github_username: @giuliaPegoraro
+orcid_id: 0009-0001-5206-5303
+linkedin_username: giulia-pegoraro-8554361b0
+twitter_username: GiuliaPegoraro7
+github_username: giuliaPegoraro
 ---
 
 Giulia completed a BSc in Bioinformatics at the University of Verona. She continued her studies at the same university with an MSc in Molecular and Medical Biotechnology with a specilization in Bioinformatics.

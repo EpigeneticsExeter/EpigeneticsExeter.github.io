@@ -5,7 +5,7 @@ title: Gina Commin
 description: Research Assistant
 img: assets/img/gina-sommimn.jpg 
 email: g.b.commin@exeter.ac.uk
-category: Current Members
+category: Research Fellows
 orcid_id: 0000-0002-6485-799X
 
 ---

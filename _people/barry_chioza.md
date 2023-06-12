@@ -6,10 +6,9 @@ description: Postdoctoral Research Fellow ##CHANGE
 img: assets/img/barry-chioza.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 tel: 01392 406754##CHANGE or delete if n/a
 email: b.a.chioza@exeter.ac.uk ##CHANGE or delete if n/a
-importance: 6  ##LEAVE
-category: delete as appropriate [Research Fellows] ##CHANGE
-orcid_id: https://orcid.org/0000-0002-3546-1726 ##CHANGE just the numbers not the whole web address!!
-linkedin_username: https://www.linkedin.com/in/barry-chioza-thx1138/ ##CHANGE just the username or delete if n/a
+category: Research Fellows ##CHANGE
+orcid_id: 0000-0002-3546-1726 ##CHANGE just the numbers not the whole web address!!
+linkedin_username: barry-chioza-thx1138 ##CHANGE just the username or delete if n/a
 uoe_profile: Barry_Chioza ##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
 ---
 

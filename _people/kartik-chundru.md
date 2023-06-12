@@ -4,10 +4,9 @@ person: true ##LEAVE
 title: Kartik Chundru ##CHANGE Name to your name
 description: Postdoctoral Fellow ##CHANGE
 img: assets/img/kartik-chundru.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
-email:v.chundru@exeter.ac.uk ##CHANGE or delete if n/a
-importance: 6  ##LEAVE
+email: v.chundru@exeter.ac.uk ##CHANGE or delete if n/a
 category: Research Fellows ##CHANGE
-orcid_id:0000-0002-6348-5565 ##CHANGE just the numbers not the whole web address!!
+orcid_id: 0000-0002-6348-5565 ##CHANGE just the numbers not the whole web address!!
 linkedin_username: ##CHANGE just the username or delete if n/a
 twitter_username: kartikchundru ##CHANGE just the username or delete if n/a
 uoe_profile: Kartik_Chundru ##CHANGE ideally just put the part after the web_id= sign in the web address i.e. for https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Alice_Franklin just put Alice_Franklin 
