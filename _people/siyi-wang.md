@@ -6,7 +6,7 @@ description: Graduated Research Assistant ##CHANGE
 img: assets/img/siyi-wang.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 tel: 07536904061 ##CHANGE or delete if n/a
 email: s.w.wang@exeter.ac.uk ##CHANGE or delete if n/a
-category: Current Members ##CHANGE
+category: Research Analysts & Technicians ##CHANGE
 orcid_id: 0000-0002-3754-2861 ##CHANGE just the numbers not the whole web address!!
 linkedin_username: Siyi Wang ##CHANGE just the username or delete if n/a
 github_username: SiyiSEA ##CHANGE just the username or delete if n/a
