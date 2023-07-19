@@ -3,7 +3,7 @@ layout: page
 person: true
 title: Lachlan MacBean
 description: PhD Student
-img: assets/img/lachlanmacbean.jpg 
+img: assets/img/lachlan-ford-macbean.jpg 
 tel: 
 email: 
 importance: 

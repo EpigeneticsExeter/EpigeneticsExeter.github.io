@@ -3,7 +3,7 @@ layout: page
 person: true
 title: Ellie Hendy
 description: Postdoctoral Research Assistant
-img: assets/img/elliehendy.png 
+img: assets/img/ellie-hendy.png 
 tel: 
 email: 
 importance: 

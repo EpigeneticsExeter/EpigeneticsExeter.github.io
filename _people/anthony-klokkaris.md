@@ -3,7 +3,7 @@ layout: page
 person: true
 title: Anthony Klokkaris
 description: PhD Student
-img: assets/img/anthonyklokkaris.jpg 
+img: assets/img/anthony-klokkaris.jpg 
 email: 
 tel:
 importance: 

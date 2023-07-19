@@ -3,7 +3,7 @@ layout: page ##LEAVE
 person: true ##LEAVE
 title: Ashim Paul Deb ##CHANGE Name to your name
 description: PhD Student ##CHANGE
-img: assets/img/path-to-image.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
+img: assets/img/ashim-paul-deb.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: ad904@exeter.ac.uk ##CHANGE or delete if n/a
 category: PhD Students ##CHANGE
 orcid_id: 0000-0003-0208-8619 ##CHANGE just the numbers not the whole web address!!

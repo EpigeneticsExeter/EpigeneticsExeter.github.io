@@ -1,16 +1,16 @@
 ---
 layout: page ##LEAVE
 person: true ##LEAVE
-title: Name Emma Dempster
+title: Emma Dempster
 description: Role Senior Lecturer
-img: assets/img/emma-dempster.jpg
-tel:
+img: assets/img/emma-dempster.jpg 
+tel: 
 email: e.l.dempster@exeter.ac.uk
-category: [ Current Members ] ##CHANGE
+category: Current Members ##CHANGE
 orcid_id: 0000-0003-1257-5314
 linkedin_username: www.linkedin.com/in/
-emma-dempster-890732127
-
+email: emma-dempster-890732127
+importance: 4
 twitter_username: ElkyD
 personal_web:
 uoe_profile: https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Emma_Dempster
@@ -23,4 +23,4 @@ In summary, my academic journey has revolved around investigating functional gen
 
 
 
-<!-- if you are unsure how to complete this, look here (https://github.com/aspides-js/aspides-js.github.io/blob/master/_people/nicholas-clifton.md?plain=1) for an example or you can slack jessica
+<!-- if you are unsure how to complete this, look here (https://github.com/aspides-js/aspides-js.github.io/blob/master/_people/nicholas-clifton.md?plain=1) for an example or you can slack jessica-->

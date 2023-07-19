@@ -3,7 +3,7 @@ layout: page ##LEAVE
 person: true ##LEAVE
 title: Giulia Pegoraro
 description: PhD Student 
-img: assets/img/giulia_pegoraro.jpg 
+img: assets/img/giulia-pegoraro.jpg 
 email: gp487@exeter.ac.uk
 category: PhD Students
 orcid_id: 0009-0001-5206-5303

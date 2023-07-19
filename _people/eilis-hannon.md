@@ -3,7 +3,7 @@ layout: page
 person: true
 title: Eilis Hannon
 description: Senior Research Fellow
-img: assets/img/eilishannon.jpg
+img: assets/img/eilis-hannon.jpg
 email: e.j.hannon@exeter.ac.uk
 tel:
 importance: 4
