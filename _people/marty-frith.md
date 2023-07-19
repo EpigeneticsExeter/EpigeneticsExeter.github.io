@@ -3,7 +3,7 @@ layout: page ##LEAVE
 person: true ##LEAVE
 title: Marty Frith ##CHANGE Name to your name
 description: PhD Student ##CHANGE
-img: assets/img/path-to-image/marty-frith.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
+img: assets/img/marty-frith.jpg ##CHANGE to assets/img/your-name.jpg e.g. assets/img/jessica-shields.jpg
 email: mjf221@exeter.ac.uk ##CHANGE or delete if n/a
 category: PhD Students ##CHANGE
 orcid_id: 0009-0005-2422-9904 ##CHANGE just the numbers not the whole web address!!
@@ -20,4 +20,4 @@ He undertook his professional training year with the Complex Disease Epigenomics
 Marty currently works as a graduate research assistant at the Exeter NIHR Biomedical Research Centre (BRC). Here he will be involved in projects that reflect the BRC’s core research themes. He will soon be undertaking a PhD project attempting to develop a novel cell-free DNA liquid biopsy for early diagnosis of neurodegenerative disease.
 
 
-<!-- if you are unsure how to complete this, look here (https://github.com/aspides-js/aspides-js.github.io/blob/master/_people/nicholas-clifton.md?plain=1) for an example or you can slack jessica
+<!-- if you are unsure how to complete this, look here (https://github.com/aspides-js/aspides-js.github.io/blob/master/_people/nicholas-clifton.md?plain=1) for an example or you can slack jessica-->

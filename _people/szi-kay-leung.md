@@ -3,7 +3,7 @@ layout: page
 person: true 
 title: Szi Kay Leung ##CHANGE Name to your name
 description: Postdoctoral Research Fellow 
-img: szi-kay-leung.jpg
+img: /assets/img/szi-kay-leung.jpg
 email: S.K.Leung@exeter.ac.uk 
 category: Research Fellows
 orcid_id: 0000-0002-5607-4688 
