@@ -31,7 +31,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/gxx_impl_linux-64-8.4.0-h9ce2e92_17
 https://repo.anaconda.com/pkgs/main/linux-64/gxx_linux-64-8.4.0-h85ed34b_30.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libsqlite-3.40.0-h753d276_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libzlib-1.2.13-h166bdaf_4.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ruby-3.1.2-hc054e64_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.40.0-h4ff8645_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.12-h27826a3_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.13-h166bdaf_4.tar.bz2
-https://conda.anaconda.org/bioconda/linux-64/ruby-2.1.7-0.tar.bz2
