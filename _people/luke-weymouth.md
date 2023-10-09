@@ -2,7 +2,7 @@
 layout: page
 person: true
 title: Luke Weymouth
-description: Graduate Research Assistant
+description: PhD Students
 img: assets/img/lukeweymouth.jpg 
 tel: 
 email: lw371@exeter.ac.uk
