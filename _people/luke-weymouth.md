@@ -2,11 +2,11 @@
 layout: page
 person: true
 title: Luke Weymouth
-description: PhD Students
+description: Graduate Research Assistant #PhD Students
 img: assets/img/lukeweymouth.jpg 
 tel: 
 email: lw371@exeter.ac.uk
-category: PhD Students
+category: Research Analysts & Technicians
 orcid_id: 0000-0002-1168-6015
 linkedin_username: luke-weymouth-7b6ab072
 personal_web: https://nicl2.github.io/
